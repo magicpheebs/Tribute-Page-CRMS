@@ -1,0 +1,36 @@
+* {
+  background-color: #d3d3d3;
+}
+
+body {
+    font-family:  'Roboto', Arial, sans-serif;
+    font-size: 1.4rem;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+    padding: 10 10 10 10;
+    line-height: 1.5;
+}
+
+img {
+  background-color: #ffffff;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  align-content: center;
+}
+
+p {
+  background-color: #ffffff;
+}
+
+blockquote, cite {
+  display: inline-block;
+  font-style: italic;
+  text-align: center;
+  font-size: small;
+}
+
+cite {
+  font-weight: bold;
+}
